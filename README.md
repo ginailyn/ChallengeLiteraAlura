@@ -18,7 +18,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 
 
 
-🎯 Funcionalidades Principales
+#🎯 Funcionalidades Principales
 
 🔍 Búsqueda de libros por título a través de la API de Gutendex.
 
@@ -37,7 +37,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 ✅ Validación de entradas del usuario.
 
 
-🛠️ Tecnologías Utilizadas
+#🛠️ Tecnologías Utilizadas
 Herramienta	Versión	Uso
 Java	17+	Lenguaje principal del proyecto
 Spring Boot	3.1.5	Framework para desarrollo web y backend
