@@ -108,7 +108,8 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 ## 📝 Tablas DB 📝
 
-<img width="337" height="628" alt="Tablas_Literalura" src="https://github.com/user-attachments/assets/3b1e8ddc-a7da-4d6d-be96-5866f11e629d" />
+<img width="722" height="455" alt="Tablas_Literalura" src="https://github.com/user-attachments/assets/33cb65a3-105c-451d-b581-5cae6675a5ad" />
+
 
 ## 📝 Información Almacenada 📝
 
