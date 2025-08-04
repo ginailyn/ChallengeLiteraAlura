@@ -55,6 +55,19 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 - * Conexión a internet (para consumir la API de Gutendex)
 
+## 🛠️ Tecnologías Utilizadas
+
+| Herramienta     | Versión | Uso                                             |
+| --------------- | ------- | ----------------------------------------------- |
+| Java            | 17+     | Lenguaje principal del proyecto                 |
+| Spring Boot     | 3.1.5   | Framework para desarrollo web y backend         |
+| Spring Data JPA | -       | Persistencia de datos y consultas con Hibernate |
+| PostgreSQL      | 15      | Base de datos relacional                        |
+| Maven           | -       | Gestión de dependencias                         |
+| API Gutendex    | RESTful | Fuente de datos externa                         |
+| IntelliJ IDEA   | -       | Entorno de desarrollo                           |
+
+
 
 ## 🌟 Menu 🌟
 
@@ -106,25 +119,10 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 <img width="1335" height="642" alt="Tabla_libros" src="https://github.com/user-attachments/assets/7ed137d3-3919-4d10-97f0-2b991b177d21" />
 
-
-
-
 <img width="1247" height="652" alt="Tabla_autores" src="https://github.com/user-attachments/assets/c381b3df-6f61-4489-bbb0-012d512e1e69" />
 
-## 🛠️ Tecnologías Utilizadas
 
-| Herramienta     | Versión | Uso                                             |
-| --------------- | ------- | ----------------------------------------------- |
-| Java            | 17+     | Lenguaje principal del proyecto                 |
-| Spring Boot     | 3.1.5   | Framework para desarrollo web y backend         |
-| Spring Data JPA | -       | Persistencia de datos y consultas con Hibernate |
-| PostgreSQL      | 15      | Base de datos relacional                        |
-| Maven           | -       | Gestión de dependencias                         |
-| API Gutendex    | RESTful | Fuente de datos externa                         |
-| IntelliJ IDEA   | -       | Entorno de desarrollo                           |
-
-
-## Autores ✒️
+## Autor: ✒️
 
 * **Gina Arias** -
 * **Linkedin* - ((https://www.linkedin.com/in/gina-a-arias-aranguren-882098133/))
