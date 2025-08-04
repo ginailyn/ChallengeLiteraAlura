@@ -128,8 +128,7 @@ IntelliJ IDEA	-	Entorno de desarrollo
 ## 🤝 Redes sociales 🤝
 
 <h3 align="left">Connect with me</h3>
- ## GitHub: https://github.com/ginailyn
-
- ## LinkedIn: https://www.linkedin.com/in/gina-a-arias-aranguren-882098133/
+GitHub: https://github.com/ginailyn
+LinkedIn: https://www.linkedin.com/in/gina-a-arias-aranguren-882098133/
 
 <a href="https://www.linkedin.com/in/[tu-usuario-linkedi](https://www.linkedin.com/in/gina-a-arias-aranguren-882098133/)/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://github.com/[tu-usuario-github](https://github.com/ginailyn)" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a>
