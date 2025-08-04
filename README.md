@@ -78,7 +78,6 @@ IntelliJ IDEA	-	Entorno de desarrollo
 ## 🌟 Opción 4 🌟
 <img width="507" height="497" alt="Opcion4_AutoresVivosDeterminadoAño" src="https://github.com/user-attachments/assets/2ee17c62-bbe9-4580-b5ea-8f553b54596e" />
 
-
 ## 🌟 Opción 5 🌟
 <img width="584" height="1039" alt="opcion5_ListarLibrosPorIdioma" src="https://github.com/user-attachments/assets/72d64963-b3ba-4b52-af95-4c9bf94bee8d" />
 
@@ -87,6 +86,9 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 ## 🌟 Opción 7 🌟
 <img width="506" height="1012" alt="opcion7_BuscarAutorPorNombre" src="https://github.com/user-attachments/assets/58e0836d-0556-4d97-adb2-5b40d70c94b5" />
+
+## 🌟 Opción 0 🌟
+<img width="505" height="427" alt="opcion0_SalirLiterAlura" src="https://github.com/user-attachments/assets/2d86dbd8-938d-4ec6-8437-d5d98832651a" />
 
 
 ##  📚 Top Libros mas descargados 📚 
