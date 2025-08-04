@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img width="600" height="200" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/854814cc-47bb-4ae1-83e1-73880b63ff89" />
+    <img width="800" height="400" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/854814cc-47bb-4ae1-83e1-73880b63ff89" />
 
   </h1>
 </div>
