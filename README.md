@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">
-    <img width="600" height="200" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/d83410df-935f-4a4b-a283-51af8b2ef45a" />
+    <img width="800" height="600" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/d83410df-935f-4a4b-a283-51af8b2ef45a" />
 
-  LITERALURA 
+
     <br />
 
 
