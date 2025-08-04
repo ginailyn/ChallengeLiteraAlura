@@ -45,6 +45,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 - * IntelliJ IDEA u otro IDE compatible
 
 - * Conexión a internet (para consumir la API de Gutendex)
+<br> </br>
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -58,6 +59,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 | API Gutendex    | RESTful | Fuente de datos externa                         |
 | IntelliJ IDEA   | -       | Entorno de desarrollo                           |
 
+<br> </br>
 
 
 ## 🌟 Menu 🌟
@@ -99,6 +101,8 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 
 <img width="922" height="307" alt="opcion6_ListarLibrosMásDescargados" src="https://github.com/user-attachments/assets/3e6b9b85-a8a5-4eb6-9dd3-67be22c2a0f4" />
 
+<br> </br>
+
 ## 🌟 Base de Datos, Tablas y Manejo Información almacenada en DB ya consumida de la API-Gutendex 🌟
 
 ## 📝 Tablas DB 📝
@@ -112,6 +116,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 
 <img width="1247" height="652" alt="Tabla_autores" src="https://github.com/user-attachments/assets/c381b3df-6f61-4489-bbb0-012d512e1e69" />
 
+<br> </br>
 
 ## Autor: ✒️
 
