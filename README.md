@@ -3,7 +3,7 @@
   LITERALURA 
     <br />
     <br />
-https://github.com/ginailyn/ChallengeLiteraAlura/blob/c7510fd547b09418589cc7c2f621f6e6b1b99933/LiteraluraBanner.png
+     
 
   </h1>
 </div>
