@@ -115,6 +115,7 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 <img width="1335" height="642" alt="Tabla_libros" src="https://github.com/user-attachments/assets/7ed137d3-3919-4d10-97f0-2b991b177d21" />
 
+<img width="732" height="547" alt="Tabla_autores" src="https://github.com/user-attachments/assets/1b7fb482-b143-48cf-9165-00f5e2cc8cab" />
 
 
 
