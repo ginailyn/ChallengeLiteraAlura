@@ -63,32 +63,41 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 ## 🌟 Opciones 🌟
 
-## 🌟 Opción 1 🌟
+1                        
+2                     
+3                     
+4     
+5                       
+6 
+7 
 
-<img width="671" height="1186" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
 
-<img width="537" height="316" alt="opcion1_yaRegistradoBD" src="https://github.com/user-attachments/assets/40df4a69-03f3-41c2-950a-93ecb3858b47" />
+## 🌟 Opción 1 - Buscar libro por Título  🌟
 
-## 🌟 Opción 2 🌟
-<img width="450" height="439" alt="Opcion2_ListarLibrosRegistrados" src="https://github.com/user-attachments/assets/82c07adb-bb3b-437e-8750-d82a124f8d97" />
+<img width="300" height="400" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
 
-## 🌟 Opción 3 🌟
-<img width="496" height="380" alt="opcion3_AutoresRegistradoBD" src="https://github.com/user-attachments/assets/7c53f3b4-827d-401e-812e-52c079fd9950" />
+<img width="300" height="400" alt="opcion1_yaRegistradoBD" src="https://github.com/user-attachments/assets/40df4a69-03f3-41c2-950a-93ecb3858b47" />
 
-## 🌟 Opción 4 🌟
-<img width="507" height="497" alt="Opcion4_AutoresVivosDeterminadoAño" src="https://github.com/user-attachments/assets/2ee17c62-bbe9-4580-b5ea-8f553b54596e" />
+## 🌟 Opción 2 - Listar libros registrados 🌟
+<img width="300" height="400" alt="Opcion2_ListarLibrosRegistrados" src="https://github.com/user-attachments/assets/82c07adb-bb3b-437e-8750-d82a124f8d97" />
 
-## 🌟 Opción 5 🌟
-<img width="584" height="1039" alt="opcion5_ListarLibrosPorIdioma" src="https://github.com/user-attachments/assets/72d64963-b3ba-4b52-af95-4c9bf94bee8d" />
+## 🌟 Opción 3 - Listar Autores registrados 🌟
+<img width="300" height="400" alt="opcion3_AutoresRegistradoBD" src="https://github.com/user-attachments/assets/7c53f3b4-827d-401e-812e-52c079fd9950" />
 
-## 🌟 Opción 6 🌟
-<img width="922" height="307" alt="opcion6_ListarLibrosMásDescargados" src="https://github.com/user-attachments/assets/3e6b9b85-a8a5-4eb6-9dd3-67be22c2a0f4" />
+## 🌟 Opción 4 - Listar Autores vivos en un determinado año  🌟
+<img width="300" height="400" alt="Opcion4_AutoresVivosDeterminadoAño" src="https://github.com/user-attachments/assets/2ee17c62-bbe9-4580-b5ea-8f553b54596e" />
 
-## 🌟 Opción 7 🌟
-<img width="506" height="1012" alt="opcion7_BuscarAutorPorNombre" src="https://github.com/user-attachments/assets/58e0836d-0556-4d97-adb2-5b40d70c94b5" />
+## 🌟 Opción 5 - Listar Libros por Idioma  🌟
+<img width="300" height="400" alt="opcion5_ListarLibrosPorIdioma" src="https://github.com/user-attachments/assets/72d64963-b3ba-4b52-af95-4c9bf94bee8d" />
 
-## 🌟 Opción 0 🌟
-<img width="505" height="427" alt="opcion0_SalirLiterAlura" src="https://github.com/user-attachments/assets/2d86dbd8-938d-4ec6-8437-d5d98832651a" />
+## 🌟 Opción 6 - Top 10 Libros mas Descargado  🌟
+<img width="300" height="400" alt="opcion6_ListarLibrosMásDescargados" src="https://github.com/user-attachments/assets/3e6b9b85-a8a5-4eb6-9dd3-67be22c2a0f4" />
+
+## 🌟 Opción 7 - Buscar Autor por Nombre  🌟
+<img width="300" height="400" alt="opcion7_BuscarAutorPorNombre" src="https://github.com/user-attachments/assets/58e0836d-0556-4d97-adb2-5b40d70c94b5" />
+
+## 🌟 Opción 0 - Salir 🌟
+<img width="300" height="400" alt="opcion0_SalirLiterAlura" src="https://github.com/user-attachments/assets/2d86dbd8-938d-4ec6-8437-d5d98832651a" />
 
 
 ##  📚 Top Libros mas descargados 📚 
