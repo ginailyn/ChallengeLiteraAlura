@@ -63,15 +63,6 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 ## 🌟 Opciones 🌟
 
-1                        
-2                     
-3                     
-4     
-5                       
-6 
-7 
-
-
 ## 🌟 Opción 1 - Buscar libro por Título  🌟
 
 <img width="380" height="480" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
