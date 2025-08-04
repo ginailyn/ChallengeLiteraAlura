@@ -1,9 +1,10 @@
 <div align="center">
   <h1 align="center">
-    <img width="1000" height="600" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/d83410df-935f-4a4b-a283-51af8b2ef45a" />
+    <img width="600" height="200" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/854814cc-47bb-4ae1-83e1-73880b63ff89" />
 
   </h1>
 </div>
+<br> </br>
 
 
 # 📚 Challenge 2 - Alura + Oracle | Literalura
@@ -12,6 +13,7 @@ Este repositorio contiene el desarrollo del segundo Challenge de Alura Latam en 
 
 A través de esta aplicación es posible realizar consultas, registrar y libros y autores, listar información almacenada en la base de datos y explorar funcionalidades avanzadas como la búsqueda por idioma o autores vivos en un año determinado; entre otras,  implementando conceptos clave de Java, Spring Boot, JPA, consumo de APIs REST, persistencia en base de datos (PostgreSQL), Mapeo de entidades y DTOs.
 
+<br> </br>
 
 
 ## 🎯 Funcionalidades Principales
