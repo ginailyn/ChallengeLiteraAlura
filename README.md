@@ -74,14 +74,14 @@ IntelliJ IDEA	-	Entorno de desarrollo
 
 ## 🌟 Opción 1 - Buscar libro por Título  🌟
 
-<img width="300" height="400" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
+<img width="380" height="480" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
 
-<img width="300" height="400" alt="opcion1_yaRegistradoBD" src="https://github.com/user-attachments/assets/40df4a69-03f3-41c2-950a-93ecb3858b47" />
+<img width="380" height="480" alt="opcion1_yaRegistradoBD" src="https://github.com/user-attachments/assets/40df4a69-03f3-41c2-950a-93ecb3858b47" />
 
 ## 🌟 Opción 2 - Listar libros registrados 🌟
 <img width="300" height="400" alt="Opcion2_ListarLibrosRegistrados" src="https://github.com/user-attachments/assets/82c07adb-bb3b-437e-8750-d82a124f8d97" />
 
-## 🌟 Opción 3 - Listar Autores registrados 🌟
+## 🌟 Opción 3 - Listar Autores registrados 🌟8
 <img width="300" height="400" alt="opcion3_AutoresRegistradoBD" src="https://github.com/user-attachments/assets/7c53f3b4-827d-401e-812e-52c079fd9950" />
 
 ## 🌟 Opción 4 - Listar Autores vivos en un determinado año  🌟
