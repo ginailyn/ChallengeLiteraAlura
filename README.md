@@ -32,16 +32,7 @@ A través de esta aplicación es posible realizar consultas, registrar y libros 
 
 ✅ Validación de entradas del usuario.
 
-
-## 🛠️ Tecnologías Utilizadas
-Herramienta	Versión	Uso
-Java	17+	Lenguaje principal del proyecto
-Spring Boot	3.1.5	Framework para desarrollo web y backend
-Spring Data JPA	-	Persistencia de datos y consultas con Hibernate
-PostgreSQL		Base de datos relacional
-Maven	-	Gestión de dependencias
-API Gutendex	RESTful	Fuente de datos externa
-IntelliJ IDEA	-	Entorno de desarrollo
+<br> </br>
 
 ## ⚙️ Requisitos de Instalación
 
