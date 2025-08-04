@@ -1,13 +1,13 @@
 <div align="center">
   <h1 align="center">
+    <img width="600" height="200" alt="LiteraluraBanner" src="https://github.com/user-attachments/assets/d83410df-935f-4a4b-a283-51af8b2ef45a" />
+
   LITERALURA 
     <br />
 
 
   </h1>
 </div>
-
-     ![image alt](https://github.com/ginailyn/ChallengeLiteraAlura/blob/c7510fd547b09418589cc7c2f621f6e6b1b99933/LiteraluraBanner.png)
 
 
 # 📚 Challenge 2 - Alura + Oracle | Literalura
