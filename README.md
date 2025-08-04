@@ -88,16 +88,16 @@ IntelliJ IDEA	-	Entorno de desarrollo
 <img width="300" height="400" alt="Opcion4_AutoresVivosDeterminadoAño" src="https://github.com/user-attachments/assets/2ee17c62-bbe9-4580-b5ea-8f553b54596e" />
 
 ## 🌟 Opción 5 - Listar Libros por Idioma  🌟
-<img width="300" height="400" alt="opcion5_ListarLibrosPorIdioma" src="https://github.com/user-attachments/assets/72d64963-b3ba-4b52-af95-4c9bf94bee8d" />
+<img width="380" height="480" alt="opcion5_ListarLibrosPorIdioma" src="https://github.com/user-attachments/assets/72d64963-b3ba-4b52-af95-4c9bf94bee8d" />
 
 ## 🌟 Opción 6 - Top 10 Libros mas Descargado  🌟
-<img width="300" height="400" alt="opcion6_ListarLibrosMásDescargados" src="https://github.com/user-attachments/assets/3e6b9b85-a8a5-4eb6-9dd3-67be22c2a0f4" />
+<img width="380" height="480" alt="opcion6_ListarLibrosMásDescargados" src="https://github.com/user-attachments/assets/3e6b9b85-a8a5-4eb6-9dd3-67be22c2a0f4" />
 
 ## 🌟 Opción 7 - Buscar Autor por Nombre  🌟
-<img width="300" height="400" alt="opcion7_BuscarAutorPorNombre" src="https://github.com/user-attachments/assets/58e0836d-0556-4d97-adb2-5b40d70c94b5" />
+<img width="380" height="480" alt="opcion7_BuscarAutorPorNombre" src="https://github.com/user-attachments/assets/58e0836d-0556-4d97-adb2-5b40d70c94b5" />
 
 ## 🌟 Opción 0 - Salir 🌟
-<img width="300" height="400" alt="opcion0_SalirLiterAlura" src="https://github.com/user-attachments/assets/2d86dbd8-938d-4ec6-8437-d5d98832651a" />
+<img width="380" height="480" alt="opcion0_SalirLiterAlura" src="https://github.com/user-attachments/assets/2d86dbd8-938d-4ec6-8437-d5d98832651a" />
 
 
 ##  📚 Top Libros mas descargados 📚 
