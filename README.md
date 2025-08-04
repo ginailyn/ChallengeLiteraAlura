@@ -59,6 +59,21 @@ IntelliJ IDEA	-	Entorno de desarrollo
 ## 🌟 Menu 🌟
 
 
+<img width="698" height="306" alt="menu" src="https://github.com/user-attachments/assets/df9bf6d2-24f7-4ead-9b9c-d36fc66dc310" />
+
+## 🌟 Opciones 🌟
+
+## 🌟 Opción 1 🌟
+
+<img width="671" height="1186" alt="opcion1_BusquedaAPI_RegistroBD" src="https://github.com/user-attachments/assets/7ded29eb-7513-4450-a1b9-f9c0d2d49ad7" />
+
+<img width="537" height="316" alt="opcion1_yaRegistradoBD" src="https://github.com/user-attachments/assets/40df4a69-03f3-41c2-950a-93ecb3858b47" />
+
+## 🌟 Opción 2 🌟
+<img width="450" height="439" alt="Opcion2_ListarLibrosRegistrados" src="https://github.com/user-attachments/assets/82c07adb-bb3b-437e-8750-d82a124f8d97" />
+
+## 🌟 Opción 3 🌟
+<img width="496" height="380" alt="opcion3_AutoresRegistradoBD" src="https://github.com/user-attachments/assets/7c53f3b4-827d-401e-812e-52c079fd9950" />
 
 ## 🌟 Manejo Informacion almacenada en DB ya consumida de la API-Gutendex 🌟
 
