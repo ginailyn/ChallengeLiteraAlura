@@ -2,12 +2,12 @@
   <h1 align="center">
   LITERALURA 
     <br />
-    <br />
-     ![image alt] (https://github.com/ginailyn/ChallengeLiteraAlura/blob/c7510fd547b09418589cc7c2f621f6e6b1b99933/LiteraluraBanner.png)
+
 
   </h1>
 </div>
 
+     ![image alt] (https://github.com/ginailyn/ChallengeLiteraAlura/blob/c7510fd547b09418589cc7c2f621f6e6b1b99933/LiteraluraBanner.png)
 
 
 # 📚 Challenge 2 - Alura + Oracle | Literalura
